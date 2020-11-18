@@ -1,3 +1,2 @@
 # Apresentação 
-
-## Olá, sou o Marcílio Freitas, tenho 28 anos e gostei bastante de conhecer um pouco sobre as linguagens de programação. Atualmente me encontro brincando de desenvolvedor com a linguagem Python e o framework Kivy. Sempre aprendendo um pouco a cada dia.
+Sou Auxiliar de TI no Grau Técnico de Parnamirim/RN. Atualmente estou estudando através de cursos online para tornar-me um programador/desenvolvedor back-end. Tenho mais experiênca com Python em um nível intermediário a cerca de 3 anos. Conheço o básico (bem básico mesmo) de frameworks como Flask, Django , Pyramid e a biblioteca Tkinter. Kivy é um framework que tenho mais domínio. Fora Python conheço o básico de C, Javascript, Shellscript. Java, PHP e Python são as que conheço um pouco sobre Programação orientada a objetos. 
